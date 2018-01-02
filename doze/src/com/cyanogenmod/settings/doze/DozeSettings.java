@@ -16,6 +16,7 @@
 
 package com.cyanogenmod.settings.doze;
 
+import com.android.settings.aoscp.display.ColorManagerPreferenceController;
 import android.app.ActionBar;
 import android.app.Activity;
 import android.app.AlertDialog;
