@@ -14,6 +14,12 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
+<Preference
+        android:key="color_manager"
+        android:title="@string/color_manager_title"
+        android:summary="@string/color_manager_summary"
+        android:fragment="com.android.settings.aoscp.display.ColorManagerFragment" />
+
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
 
     <SwitchPreference
