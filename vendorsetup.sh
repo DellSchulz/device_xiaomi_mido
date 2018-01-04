@@ -1,1 +1,1 @@
-add_lunch_combo aim_mido-userdebug
+add_lunch_combo du_mido-userdebug
